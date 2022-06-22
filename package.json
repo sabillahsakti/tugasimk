@@ -10,6 +10,7 @@
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
+    "deploy": "gh-pages -b master -d build"
   },
   "dependencies": {
     "@apollo/react-hooks": "^3.1.3",
